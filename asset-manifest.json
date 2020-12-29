@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/10Elements/static/css/main.6d57ab29.chunk.css",
-    "main.js": "/10Elements/static/js/main.c30f850d.chunk.js",
-    "main.js.map": "/10Elements/static/js/main.c30f850d.chunk.js.map",
-    "runtime-main.js": "/10Elements/static/js/runtime-main.ad49fa64.js",
-    "runtime-main.js.map": "/10Elements/static/js/runtime-main.ad49fa64.js.map",
-    "static/js/2.10344fbb.chunk.js": "/10Elements/static/js/2.10344fbb.chunk.js",
-    "static/js/2.10344fbb.chunk.js.map": "/10Elements/static/js/2.10344fbb.chunk.js.map",
-    "static/js/3.daa16d0b.chunk.js": "/10Elements/static/js/3.daa16d0b.chunk.js",
-    "static/js/3.daa16d0b.chunk.js.map": "/10Elements/static/js/3.daa16d0b.chunk.js.map",
-    "index.html": "/10Elements/index.html",
-    "static/css/main.6d57ab29.chunk.css.map": "/10Elements/static/css/main.6d57ab29.chunk.css.map",
-    "static/js/2.10344fbb.chunk.js.LICENSE.txt": "/10Elements/static/js/2.10344fbb.chunk.js.LICENSE.txt"
+    "main.css": "/www.joshhaokip.com/10elements/static/css/main.6d57ab29.chunk.css",
+    "main.js": "/www.joshhaokip.com/10elements/static/js/main.c30f850d.chunk.js",
+    "main.js.map": "/www.joshhaokip.com/10elements/static/js/main.c30f850d.chunk.js.map",
+    "runtime-main.js": "/www.joshhaokip.com/10elements/static/js/runtime-main.b1e84505.js",
+    "runtime-main.js.map": "/www.joshhaokip.com/10elements/static/js/runtime-main.b1e84505.js.map",
+    "static/js/2.10344fbb.chunk.js": "/www.joshhaokip.com/10elements/static/js/2.10344fbb.chunk.js",
+    "static/js/2.10344fbb.chunk.js.map": "/www.joshhaokip.com/10elements/static/js/2.10344fbb.chunk.js.map",
+    "static/js/3.daa16d0b.chunk.js": "/www.joshhaokip.com/10elements/static/js/3.daa16d0b.chunk.js",
+    "static/js/3.daa16d0b.chunk.js.map": "/www.joshhaokip.com/10elements/static/js/3.daa16d0b.chunk.js.map",
+    "index.html": "/www.joshhaokip.com/10elements/index.html",
+    "static/css/main.6d57ab29.chunk.css.map": "/www.joshhaokip.com/10elements/static/css/main.6d57ab29.chunk.css.map",
+    "static/js/2.10344fbb.chunk.js.LICENSE.txt": "/www.joshhaokip.com/10elements/static/js/2.10344fbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad49fa64.js",
+    "static/js/runtime-main.b1e84505.js",
     "static/js/2.10344fbb.chunk.js",
     "static/css/main.6d57ab29.chunk.css",
     "static/js/main.c30f850d.chunk.js"
