@@ -10,8 +10,8 @@ Here is the original version of the [website](https://github.com/JoshHaokip/josh
 
 This project taught me a couple of things:
 
-    * A different method in using GIT - I learnt the `$ git init`
-    * Practise my knowledge of React
-    * How to [center a div](https://dev.to/mcrowder65/how-to-center-elements-horizontally-on-a-create-react-app-project-1omn) within the `body` whilst using React
-    * React CSS
-    * Use Google fonts in React
+- A different method in using GIT - I learnt the `$ git init`
+- Practise my knowledge of React
+- How to [center a div](https://dev.to/mcrowder65/how-to-center-elements-horizontally-on-a-create-react-app-project-1omn) within the `body` whilst using React
+- React CSS
+- Use Google fonts in React
