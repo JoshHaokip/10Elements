@@ -15,3 +15,4 @@ This project taught me a couple of things:
 - How to [center a div](https://dev.to/mcrowder65/how-to-center-elements-horizontally-on-a-create-react-app-project-1omn) within the `body` whilst using React
 - React CSS
 - Use Google fonts in React
+- Deploy with GitHub Pages
