@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AACA,UACE,WAAY,CACZ,iBAAkB,CAClB,6BACF","file":"main.6d57ab29.chunk.css","sourcesContent":["\nhtml, body {\n  height: 100%;\n  overflow-y: hidden;\n  font-family: 'Muli', sans-serif;\n}\n\n"]}
