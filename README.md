@@ -1,10 +1,32 @@
-# Personal Website with React
+# Personal Website with React Test
 
 This project is my first React App created using [Create React App](https://github.com/facebook/create-react-app).
 
 ## Original Version
 
 Here is the original version of the [website](https://github.com/JoshHaokip/joshhaokip.github.io). If you follow the link you will be able to find my article I wrote describing how I created and came up with the design of the website.
+
+# :running: Running the app
+
+Clone this repo:
+
+```
+$ git clone https://github.com/JoshHaokip/10Elements
+```
+
+Install all dependancies:
+
+```
+$ npm install
+```
+
+Start the server:
+
+```
+$ npm start
+```
+
+And open the app in your browser at <http://localhost:3000/>.
 
 ### Learnings
 
