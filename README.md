@@ -35,6 +35,6 @@ This project taught me a couple of things:
 - A different method in using GIT - I learnt the `$ git init`
 - Practise my knowledge of React
 - How to [center a div](https://dev.to/mcrowder65/how-to-center-elements-horizontally-on-a-create-react-app-project-1omn) within the `body` whilst using React
-- React CSS
+- Learnt how to add styling to React
 - Use Google fonts in React
 - Learnt how to deploy with [GitHub Pages](https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14)
